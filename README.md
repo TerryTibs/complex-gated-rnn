@@ -1,0 +1,1 @@
+A Complex-Valued Recurrent Neural Network (CV-RNN) implementation in PyTorch. Features dimension-wise gating, stochastic recursive depth, and a novel multi-objective loss function that optimizes for latent space coherence and stability alongside prediction accuracy.
